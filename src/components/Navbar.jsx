@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className="flex items-center justify-between p-4 bg-zinc-800 sticky text-xl ">
       <div className="mx-10">
-        <Link href="/home">
+        <Link href="/">
           <Image
             src="/logo.jpg"
             alt="logo"
